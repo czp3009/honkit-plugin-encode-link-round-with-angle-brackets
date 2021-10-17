@@ -1,0 +1,12 @@
+{
+  "name": "honkit-plugin-encode-link-round-with-angle-brackets",
+  "version": "0.0.1",
+  "description": "Encode url in link that round with angle brackets",
+  "engines": {
+    "honkit": ">=3.6.22"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/czp3009/honkit-plugin-encode-link-round-with-angle-brackets",
+  "author": "czp3009@gmail.com",
+  "license": "Apache-2.0"
+}
