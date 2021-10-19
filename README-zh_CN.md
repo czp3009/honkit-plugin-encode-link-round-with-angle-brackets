@@ -1,22 +1,22 @@
 # Honkit Plugin Encode Link Round With Angle Brackets
 
-English | [简体中文](./README-zh_CN.md)
+[English](./README.md) | 简体中文
 
-Encode url in link that round with angle brackets.
+编码尖括号包裹的链接.
 
-Before encode(url with space and round brackets may cause issue when honkit parse it):
+编码前(带有空格和小括号的链接可能会造成 honkit 解析错误):
 
 ```markdown
 ![](<.gitbook/assets/image (1).png>)
 ```
 
-After encode:
+编码后:
 
 ```markdown
 ![](.gitbook/assets/image%20%281%29.png)
 ```
 
-Generated html:
+生成的 html:
 
 ```html
 <p><img src=".gitbook/assets/image%20%281%29.png" alt></p>
@@ -28,9 +28,9 @@ Generated html:
 npm install honkit-plugin-encode-link-round-with-angle-brackets
 ```
 
-# Configuration
+# 配置
 
-No config.
+无.
 
 # License
 
