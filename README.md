@@ -1,3 +1,6 @@
+# Deprecated
+Please use https://github.com/czp3009/honkit-plugin-encode-link
+
 # Honkit Plugin Encode Link Round With Angle Brackets
 
 English | [简体中文](./README-zh_CN.md)
